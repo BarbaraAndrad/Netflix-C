@@ -1,2 +1,2 @@
 # Netflix-C
-Recriando interface da Netflix 
+Interface Netflix
